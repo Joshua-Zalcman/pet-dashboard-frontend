@@ -19,21 +19,21 @@ A web site dedicated to pet adoption/fostering where users can login and post/co
 
 ### Wireframes
 
-![wireframe](frontend/public/img/wireframe.png)
+![wireframe](public/img/wireframe.png)
 
 ### ERD
 
-![ERD](frontend/public/img/erd.png)
+![ERD](public/img/erd.png)
 
 ### Images of App
 
-![Pet Board](frontend/public/img/pet-board-img.png)
+![Pet Board](public/img/pet-board-img.png)
 
-![User Screen](frontend/public/img/user-screen-img.png)
+![User Screen](public/img/user-screen-img.png)
 
 ## Getting Started
 
-Click [here](k) to visit working App
+Click [here](https://pet-dashboard-frontend.herokuapp.com/) to visit working App
 
 ## Future Enhancements
 
